@@ -11,5 +11,8 @@
     "lite-server": "^2.6.1"
   },
   "author": "Ravi Prasad",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "dearstudents",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "author": "Ravi Prasad",
+  "license": "ISC"
+}
